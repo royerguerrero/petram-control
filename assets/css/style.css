@@ -27,6 +27,12 @@ body{
     background-size: cover;
 }
 
+.banner-register{
+    background: url('../img/register-banner.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+
 /* responsive desing */
 
 /* mobile */
