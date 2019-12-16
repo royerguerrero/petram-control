@@ -33,6 +33,20 @@ body{
     background-size: cover;
 }
 
+.tools-bar{
+    height: 100vh;
+}
+
+.icon-container-bar{
+    margin: 10px 0 0 0;
+}
+
+.nav-lateral{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 /* responsive desing */
 
 /* mobile */
@@ -63,3 +77,9 @@ body{
 }
 
 /* tablet */
+
+
+/* colores de iconos */
+.icon-white{
+    fill: #ffffff;
+}

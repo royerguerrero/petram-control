@@ -14,7 +14,6 @@
             require_once 'views/index/login.php';
             require_once 'views/layouts/footer.php';
         }
-<<<<<<< HEAD
 
         function register(){
             require_once 'views/layouts/header.php';
@@ -40,6 +39,11 @@
             require_once 'views/layouts/footer.php';
         }
 
-=======
->>>>>>> 8ef7a7bb31dd53af5da1268f0ecb707973624c93
+        function dashboard(){
+            require_once 'views/layouts/header.php';
+            require_once 'views/layouts/users/navbar.php';
+            require_once 'views/users/dash.php';
+            require_once 'views/layouts/users/footer.php';
+        }
+
     }
